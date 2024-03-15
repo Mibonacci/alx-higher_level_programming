@@ -1,1 +1,1 @@
-Python higher level programming
+0x00 python first day
